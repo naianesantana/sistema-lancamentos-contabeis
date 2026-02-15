@@ -1,4 +1,4 @@
-# Sistema de Lançamentos Contábeis
+# Sistema de Lançamentos Contábeis (em andamento)
 Esse sistema simula, de forma simplificada e direta, um diário contábil, possibilitando o registro de entradas e saídas classificados
 por conta.
 
