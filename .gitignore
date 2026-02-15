@@ -1,0 +1,14 @@
+# Segurança: Não vai subir senhas reais
+.env
+
+# Configurações do PyCharm
+.idea/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente Virtual
+venv/
+.venv/
